@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'FuturaMdBTBold';
+    src: url('futuraboldbt.eot');
+    src: url('futuraboldbt.eot') format('embedded-opentype'),
+         url('futuraboldbt.woff2') format('woff2'),
+         url('futuraboldbt.woff') format('woff'),
+         url('futuraboldbt.ttf') format('truetype'),
+         url('futuraboldbt.svg#FuturaMdBTBold') format('svg');
+}

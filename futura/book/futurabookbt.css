@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'FuturaBkBTBook';
+    src: url('futurabookbt.eot');
+    src: url('futurabookbt.eot') format('embedded-opentype'),
+         url('futurabookbt.woff2') format('woff2'),
+         url('futurabookbt.woff') format('woff'),
+         url('futurabookbt.ttf') format('truetype'),
+         url('futurabookbt.svg#FuturaBkBTBook') format('svg');
+}

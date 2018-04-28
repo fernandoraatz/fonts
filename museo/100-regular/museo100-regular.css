@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Museo100';
+    src: url('museo100-regular.eot');
+    src: url('museo100-regular.eot') format('embedded-opentype'),
+         url('museo100-regular.woff') format('woff'),
+         url('museo100-regular.ttf') format('truetype'),
+         url('museo100-regular.svg#Museo100') format('svg');
+}

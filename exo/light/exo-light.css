@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'ExoLight';
+    src: url('exo-light.eot');
+    src: url('exo-light.eot') format('embedded-opentype'),
+         url('exo-light.woff2') format('woff2'),
+         url('exo-light.woff') format('woff'),
+         url('exo-light.ttf') format('truetype'),
+         url('exo-light.svg#ExoLight') format('svg');
+}

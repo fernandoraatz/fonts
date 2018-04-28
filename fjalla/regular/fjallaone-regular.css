@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'FjallaOneRegular';
+    src: url('fjallaone-regular.eot');
+    src: url('fjallaone-regular.eot') format('embedded-opentype'),
+         url('fjallaone-regular.woff2') format('woff2'),
+         url('fjallaone-regular.woff') format('woff'),
+         url('fjallaone-regular.ttf') format('truetype'),
+         url('fjallaone-regular.svg#FjallaOneRegular') format('svg');
+}

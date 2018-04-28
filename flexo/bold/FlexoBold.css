@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'FlexoBold';
+    src: url('fonts/FlexoBold.eot');
+    src: url('fonts/FlexoBold.eot') format('embedded-opentype'),
+         url('fonts/FlexoBold.woff2') format('woff2'),
+         url('fonts/FlexoBold.woff') format('woff'),
+         url('fonts/FlexoBold.ttf') format('truetype'),
+         url('fonts/FlexoBold.svg#FlexoBold') format('svg');
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SamsungInterFace';
+    src: url('fonts/SamsungInterFace.eot');
+    src: url('fonts/SamsungInterFace.eot') format('embedded-opentype'),
+         url('fonts/SamsungInterFace.woff2') format('woff2'),
+         url('fonts/SamsungInterFace.woff') format('woff'),
+         url('fonts/SamsungInterFace.ttf') format('truetype'),
+         url('fonts/SamsungInterFace.svg#SamsungInterFace') format('svg');
+}

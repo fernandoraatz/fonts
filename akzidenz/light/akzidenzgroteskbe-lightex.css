@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'BertholdAkzidenzGroteskLightExtended';
+    src: url('akzidenzgroteskbe-lightex.eot');
+    src: url('akzidenzgroteskbe-lightex.eot') format('embedded-opentype'),
+         url('akzidenzgroteskbe-lightex.woff2') format('woff2'),
+         url('akzidenzgroteskbe-lightex.woff') format('woff'),
+         url('akzidenzgroteskbe-lightex.ttf') format('truetype'),
+         url('akzidenzgroteskbe-lightex.svg#BertholdAkzidenzGroteskLightExtended') format('svg');
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'ExoRegular';
+    src: url('fonts/ExoRegular.eot');
+    src: url('fonts/ExoRegular.eot') format('embedded-opentype'),
+         url('fonts/ExoRegular.woff2') format('woff2'),
+         url('fonts/ExoRegular.woff') format('woff'),
+         url('fonts/ExoRegular.ttf') format('truetype'),
+         url('fonts/ExoRegular.svg#ExoRegular') format('svg');
+}

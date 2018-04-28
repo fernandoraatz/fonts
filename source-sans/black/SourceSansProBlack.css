@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SourceSansProBlack';
+    src: url('fonts/SourceSansProBlack.eot');
+    src: url('fonts/SourceSansProBlack.eot') format('embedded-opentype'),
+         url('fonts/SourceSansProBlack.woff2') format('woff2'),
+         url('fonts/SourceSansProBlack.woff') format('woff'),
+         url('fonts/SourceSansProBlack.ttf') format('truetype'),
+         url('fonts/SourceSansProBlack.svg#SourceSansProBlack') format('svg');
+}

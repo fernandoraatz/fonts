@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'NunitoLight';
+    src: url('fonts/NunitoLight.eot');
+    src: url('fonts/NunitoLight.eot') format('embedded-opentype'),
+         url('fonts/NunitoLight.woff2') format('woff2'),
+         url('fonts/NunitoLight.woff') format('woff'),
+         url('fonts/NunitoLight.ttf') format('truetype'),
+         url('fonts/NunitoLight.svg#NunitoLight') format('svg');
+}

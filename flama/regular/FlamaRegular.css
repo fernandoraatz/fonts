@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'FlamaRegular';
+    src: url('fonts/FlamaRegular.eot');
+    src: url('fonts/FlamaRegular.eot') format('embedded-opentype'),
+         url('fonts/FlamaRegular.woff2') format('woff2'),
+         url('fonts/FlamaRegular.woff') format('woff'),
+         url('fonts/FlamaRegular.ttf') format('truetype'),
+         url('fonts/FlamaRegular.svg#FlamaRegular') format('svg');
+}
